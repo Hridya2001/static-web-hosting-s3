@@ -28,11 +28,7 @@ This project is part of my cloud learning journey. The website is a basic landin
 
 ## 📸 Screenshot
 
-*Add a screenshot of your hosted site here if you'd like.*
+*Here is the screenshot of my hosted site.*
 
-## 📁 Project Structure
+![Screenshot of My Static Website](Images/hosted -site-on-s3.png)
 
-static-website-s3/
-├── index.html        # Main HTML file
-├── styles.css        # CSS file for styling
-└── README.md         # Project documentation
