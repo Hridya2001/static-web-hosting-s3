@@ -16,15 +16,19 @@ This project is part of my cloud learning journey. The website is a basic landin
 
 1. Created a new S3 bucket with a unique name.
 2. Enabled static website hosting in bucket properties.
-3. Uploaded `index.html` and `styles.css`.
+3. Uploaded `index.html` and `new.css`.
 4. Set permissions to make the files publicly readable.
 5. Accessed the website using the S3 static hosting URL.
 
 ## 🌐 Live URL
 
-[Visit the Website](https://your-bucket-name.s3-website-region.amazonaws.com)
+*You can view the live version of this website hosted on AWS S3 by clicking the link below:*
 
-> Replace the above link with your actual S3 website endpoint.
+*Visit My Website*
+
+[Visit the Website](http://hridya-portfolio-site.s3-website.ap-south-1.amazonaws.com)
+
+
 
 ## 📸 Screenshot
 
