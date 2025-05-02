@@ -30,5 +30,5 @@ This project is part of my cloud learning journey. The website is a basic landin
 
 *Here is the screenshot of my hosted site.*
 
-![Screenshot of My Static Website](Images/hosted-site-on-s3.png)
+![Screenshot of My Static Website](images/hosted-site-on-s3.png)
 
