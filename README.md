@@ -8,8 +8,8 @@ This project is part of my cloud learning journey. The website is a basic landin
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - AWS S3 (Simple Storage Service)
 
 ## 🚀 Hosting Steps
@@ -24,7 +24,6 @@ This project is part of my cloud learning journey. The website is a basic landin
 
 *You can view the live version of this website hosted on AWS S3 by clicking the link below:*
 
-*Visit My Website*
 
 [Visit the Website](http://hridya-portfolio-site.s3-website.ap-south-1.amazonaws.com)
 
