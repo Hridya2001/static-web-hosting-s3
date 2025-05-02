@@ -32,3 +32,7 @@ This project is part of my cloud learning journey. The website is a basic landin
 
 ## 📁 Project Structure
 
+static-website-s3/
+├── index.html        # Main HTML file
+├── styles.css        # CSS file for styling
+└── README.md         # Project documentation
